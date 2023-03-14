@@ -18,6 +18,7 @@
     "tailwindcss": "^3.2.7"
   },
   "dependencies": {
-    "react-icons": "^4.8.0"
+    "react-icons": "^4.8.0",
+    "nodemon": "^2.0.20"
   }
 }
